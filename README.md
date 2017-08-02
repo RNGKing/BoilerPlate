@@ -1,9 +1,9 @@
 # BoilerPlate
 This project is a Boiler Plate for rapid prototyping of various game types.
 
-Included is a set of animations and code bases that work with Unity 5.6.1f for to aid in the rapid development of games in rapid prototyping situations.
+## Included is a set of animations and code bases that work with Unity 5.6.1f for to aid in the rapid development of games in rapid prototyping situations.
 
-To - Do:
+## To - Do:
 * Isometric Character Controller
 * Side Scrolling 2D Character Controller
 * Top-Down Character Controller
@@ -16,9 +16,9 @@ To - Do:
 * Generalized UI System
 * Level Generation Algorithms  
 
-All contributions are considered "Open Source" and are free for use without license. If you do use this Repository be sure to link or reference the Repository.
+## All contributions are considered "Open Source" and are free for use without license. If you do use this Repository be sure to link or reference the Repository.
 
-Contributions are welcome!
+## Contributions are welcome!
 
-Contributors:
-Patrick Phillips
+## Contributors:
+* Patrick Phillips

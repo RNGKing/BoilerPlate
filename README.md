@@ -19,3 +19,6 @@ To - Do:
 All contributions are considered "Open Source" and are free for use without license. If you do use this Repository be sure to link or reference the Repository.
 
 Contributions are welcome!
+
+Contributors:
+Patrick Phillips 
